@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #8e44ad;
+  background-image: linear-gradient(to left bottom, #f6ade0, #f1abd0, #e9aac2, #dfa9b7, #d3a9af, #d1a5a9, #cea1a3, #cc9d9d, #d39494, #d98c8b, #df8382, #e47979);
   color: #fff;
   font-family: 'Roboto Mono', sans-serif;
   display: flex;
